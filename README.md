@@ -78,7 +78,7 @@ notebook>=6.4.0
 ### Option 2: Exécution locale avec Jupyter
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/votre-username/random_forest_lfw.git
+git clone https://github.com/AlaeLahbichi/Projet_ML.git
 cd random_forest_lfw
 
 # 2. Créer un environnement virtuel (recommandé)
@@ -102,3 +102,6 @@ jupyter nbconvert --to python random_forest_lfw.ipynb
 
 # Exécuter le script
 python random_forest_lfw.py
+
+#On peut aussi exécuter le code directement sans le convertir en script python(sans passer par cette étape)
+
