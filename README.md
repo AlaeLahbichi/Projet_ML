@@ -79,7 +79,6 @@ notebook>=6.4.0
 ```bash
 # 1. Cloner le repository
 git clone https://github.com/AlaeLahbichi/Projet_ML.git
-cd random_forest_lfw
 
 # 2. Créer un environnement virtuel (recommandé)
 python -m venv venv
